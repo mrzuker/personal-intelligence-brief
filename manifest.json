@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "publication_profile": "public-facts",
+  "site_base_path": "/personal-intelligence-brief/",
+  "published_at": "2026-08-21T06:35:33.504000+00:00",
+  "latest_digest_date": "2026-08-21",
+  "days": [
+    {
+      "date": "2026-08-21",
+      "title": "2026年08月21日 · 每日情报",
+      "item_count": 16
+    },
+    {
+      "date": "2026-08-20",
+      "title": "2026年08月20日 · 每日情报",
+      "item_count": 89
+    },
+    {
+      "date": "2026-08-19",
+      "title": "2026年08月19日 · 每日情报",
+      "item_count": 82
+    }
+  ]
+}
