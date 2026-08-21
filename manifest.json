@@ -7,17 +7,19 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-08-21T07:22:00.316688+00:00",
+  "published_at": "2026-08-21T07:42:17.595125+00:00",
   "latest_digest_date": "2026-08-21",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "1665595d2bd816e373e87fae9e9e7fd0397d08f6fb4e9b76ad19bf15a8c12a55",
+    "fingerprint": "558fbd21a72e05b30383cf0f7563b9e2ff5ba324b09a332819011b92ef3e3bd9",
     "edition_id": 45,
     "digest_date": "2026-08-21",
     "slot": "12:00",
     "status": "SUCCESS",
     "content_hash": "1128630c5d56a0c41c5e733c784d910751ed7238a7419339a3e6af7d7eb15352",
-    "updated_at": "2026-08-21T04:46:45.713484+00:00"
+    "updated_at": "2026-08-21T04:46:45.713484+00:00",
+    "rolling_input_hash": "07c275ea7afdc9c6466b48ed41d8e1b01707e51a95960a09638ac820ebb21a9c",
+    "day_updated_at": "2026-08-21T04:46:45.712053+00:00"
   },
   "days": [
     {
