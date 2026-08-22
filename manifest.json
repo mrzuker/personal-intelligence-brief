@@ -7,11 +7,11 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-08-22T16:20:36.522475+00:00",
+  "published_at": "2026-08-22T20:23:44.438559+00:00",
   "latest_digest_date": "2026-08-22",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "ba156deeccb78e3fb81132424e738c76dc89067f0e43109c54d8d8fa9e4a1683",
+    "fingerprint": "d2abcb4939e346d471fd0e1339ea17a902c4730294d03f7b5e017ea09ae2eda5",
     "edition_id": 62,
     "edition_type": "MANUAL",
     "digest_date": "2026-08-22",
@@ -19,14 +19,14 @@
     "status": "SUCCESS",
     "content_hash": "417778bcbf66a86c74c685e1044ea2cfb3ad38ba71f3da0963a7e0a29d95ea5e",
     "updated_at": "2026-08-22T15:49:29.950490+00:00",
-    "rolling_input_hash": "058cc57cc2dfe6568416fa4074c116bf75f58c5376342cd88a262901b520eb0f",
-    "day_updated_at": "2026-08-22T16:17:13.215147+00:00"
+    "rolling_input_hash": "df05a2fe4da2ca77345b77b33be06799cded3c0cc78ba3c87ed81508c9ad8552",
+    "day_updated_at": "2026-08-22T20:18:34.421984+00:00"
   },
   "days": [
     {
       "date": "2026-08-22",
       "title": "2026年08月22日 · 每日情报",
-      "item_count": 67
+      "item_count": 68
     },
     {
       "date": "2026-08-21",
