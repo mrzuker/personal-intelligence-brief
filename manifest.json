@@ -7,26 +7,26 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-08-29T04:06:04.335894+00:00",
+  "published_at": "2026-08-29T09:05:16.946518+00:00",
   "latest_digest_date": "2026-08-29",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "3c18c0822b1eff14f838b6206c71998db9d71447bf1716be3d91c5caad5d5c79",
-    "edition_id": 121,
+    "fingerprint": "db1d1500e5aa0eba49ec792ecbb3b0972fd50c52f0e49c63b5526d52a3277788",
+    "edition_id": 122,
     "edition_type": "SCHEDULED",
     "digest_date": "2026-08-29",
-    "slot": "12:00",
+    "slot": "17:00",
     "status": "SUCCESS",
-    "content_hash": "2afb2ef7176095a9146c0ff35b92f478874e84b3388271fce8a8be6017be145b",
-    "updated_at": "2026-08-29T04:00:43.799712+00:00",
-    "rolling_input_hash": "ae5153e9350ad22bc15d99de6b9a7b14c6069817c8c9f886cee3118665f9a155",
-    "day_updated_at": "2026-08-29T04:00:43.798763+00:00"
+    "content_hash": "a8e8f838f242278ae2063a2825465d9afb43947b67c6feaaf73534701ded6159",
+    "updated_at": "2026-08-29T09:00:33.206162+00:00",
+    "rolling_input_hash": "f62f4ba4851fad02a1fc47366060dddcd86abcca7059fd4039095d8d97813bbe",
+    "day_updated_at": "2026-08-29T09:00:33.204792+00:00"
   },
   "days": [
     {
       "date": "2026-08-29",
       "title": "2026年08月29日 · 每日情报",
-      "item_count": 31
+      "item_count": 39
     },
     {
       "date": "2026-08-28",
