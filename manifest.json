@@ -7,11 +7,11 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-09-01T14:04:03.409025+00:00",
+  "published_at": "2026-09-01T15:55:31.947365+00:00",
   "latest_digest_date": "2026-09-01",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "6b71ac4a3703682be672a877e338be69da0b95354e52079d02707887b56eb8fa",
+    "fingerprint": "2caeeca922914bfbfab4f07a8f3bd001f07e043e7783036ca92f107de4ced03b",
     "edition_id": 150,
     "edition_type": "SCHEDULED",
     "digest_date": "2026-09-01",
@@ -20,23 +20,23 @@
     "content_hash": "6520c7616b77b7dc82d55be1dd0b5666900886ff75653173ca981b8df12c9464",
     "updated_at": "2026-09-01T14:00:49.553371+00:00",
     "rolling_input_hash": "4f4b5050c0d0b50c34013140ecde697e0dd47f2bdf1d88e9a020c5e55f110145",
-    "day_updated_at": "2026-09-01T14:00:49.551381+00:00"
+    "day_updated_at": "2026-09-01T15:45:00.200566+00:00"
   },
   "days": [
     {
       "date": "2026-09-01",
       "title": "2026年09月01日 · 每日情报",
-      "item_count": 49
+      "item_count": 50
     },
     {
       "date": "2026-08-31",
       "title": "2026年08月31日 · 每日情报",
-      "item_count": 66
+      "item_count": 78
     },
     {
       "date": "2026-08-30",
       "title": "2026年08月30日 · 每日情报",
-      "item_count": 61
+      "item_count": 69
     },
     {
       "date": "2026-08-29",
