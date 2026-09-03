@@ -7,11 +7,11 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-09-03T17:34:09.592399+00:00",
+  "published_at": "2026-09-03T21:40:25.352748+00:00",
   "latest_digest_date": "2026-09-03",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "2a78dd6cb94af007365e5c2db0ba0f1463a4090a3e9e108bbf61a1f5b52ddaa0",
+    "fingerprint": "643dc21bc12b7ef399da36e6ea35c309c653981f30834d05deade1c169d2171d",
     "edition_id": 183,
     "edition_type": "SCHEDULED",
     "digest_date": "2026-09-03",
@@ -19,14 +19,14 @@
     "status": "SUCCESS",
     "content_hash": "70e21de0878d0e288ca1aa28957e1a491dd4260fad686f8ecc447ef74b113106",
     "updated_at": "2026-09-03T14:01:12.801537+00:00",
-    "rolling_input_hash": "9950980d5c451de5addffd03de401cfa6b1932dcaa05fe81a15ff76ac537bd12",
-    "day_updated_at": "2026-09-03T17:29:40.856028+00:00"
+    "rolling_input_hash": "dec07e612f57c5141b2fa5c341678312ca6bccb9dabfec25614c751c062ce898",
+    "day_updated_at": "2026-09-03T21:37:11.701221+00:00"
   },
   "days": [
     {
       "date": "2026-09-03",
       "title": "2026年09月03日 · 每日情报",
-      "item_count": 65
+      "item_count": 68
     },
     {
       "date": "2026-09-02",
