@@ -7,11 +7,11 @@
     "/digests/",
     "/digests/YYYY-MM-DD/"
   ],
-  "published_at": "2026-09-03T23:07:16.261912+00:00",
+  "published_at": "2026-09-04T00:29:50.405260+00:00",
   "latest_digest_date": "2026-09-04",
   "latest_scheduled_edition": {
     "ready": true,
-    "fingerprint": "a51f35f9a7961d36c9c0d6db30564c8e58acd7537e6c9877224fc3651369ae30",
+    "fingerprint": "1d63807b3c455783d79981a8c8ceaf87ee3f16b30284968488c6e4410d7edae7",
     "edition_id": 194,
     "edition_type": "SCHEDULED",
     "digest_date": "2026-09-04",
@@ -20,13 +20,13 @@
     "content_hash": "dbb02c973ac06f3f696fc93d0b881b8c721cce906849bd5893bb0a3eef38b310",
     "updated_at": "2026-09-03T23:01:19.097704+00:00",
     "rolling_input_hash": "4cb52cdd3bb3e15b9033c573a83f8dbdda5c33eb14eddab377d0c8c153591700",
-    "day_updated_at": "2026-09-03T23:01:19.096414+00:00"
+    "day_updated_at": "2026-09-04T00:25:19.430445+00:00"
   },
   "days": [
     {
       "date": "2026-09-04",
       "title": "2026年09月04日 · 每日情报",
-      "item_count": 27
+      "item_count": 28
     },
     {
       "date": "2026-09-03",
